@@ -1,9 +1,21 @@
 [
   {
+    "package": "b3gbi",
+    "url": "https://github.com/b-cubed-eu/b3gbi",
+    "via": ["dubicube"],
+    "from": "dubicube"
+  },
+  {
     "package": "bold",
     "url": "https://github.com/ropensci/bold",
     "via": ["b3gbi"],
     "from": "b3gbi"
+  },
+  {
+    "package": "bold",
+    "url": "https://github.com/ropensci/bold",
+    "via": ["dubicube", "b3gbi"],
+    "from": "dubicube"
   },
   {
     "package": "mgrs",
@@ -12,9 +24,21 @@
     "from": "b3gbi"
   },
   {
+    "package": "mgrs",
+    "url": "https://github.com/hrbrmstr/mgrs",
+    "via": ["dubicube", "b3gbi"],
+    "from": "dubicube"
+  },
+  {
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
     "via": ["b3gbi"],
     "from": "b3gbi"
+  },
+  {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["dubicube", "b3gbi"],
+    "from": "dubicube"
   }
 ]
