@@ -2,9 +2,25 @@
 	path = .registry
 	url = https://github.com/b-cubed-eu/b-cubed-eu.r-universe.dev
 	branch = HEAD
+[submodule "b3gbi"]
+	path = b3gbi
+	url = https://github.com/b-cubed-eu/b3gbi
+	registered = false
+[submodule "bold"]
+	path = bold
+	url = https://github.com/ropensci/bold
+	registered = false
 [submodule "dubicube"]
 	path = dubicube
 	url = https://github.com/b-cubed-eu/dubicube
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
+[submodule "mgrs"]
+	path = mgrs
+	url = https://github.com/hrbrmstr/mgrs
+	registered = false
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/ropensci/taxize
+	registered = false
