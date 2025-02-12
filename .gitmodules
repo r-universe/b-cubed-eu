@@ -5,17 +5,9 @@
 [submodule "b3gbi"]
 	path = b3gbi
 	url = https://github.com/b-cubed-eu/b3gbi
-[submodule "bold"]
-	path = bold
-	url = https://github.com/ropensci/bold
-	registered = false
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
 [submodule "mgrs"]
 	path = mgrs
 	url = https://github.com/hrbrmstr/mgrs
-[submodule "taxize"]
-	path = taxize
-	url = https://github.com/ropensci/taxize
-	registered = false
