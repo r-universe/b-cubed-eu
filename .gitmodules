@@ -9,9 +9,6 @@
 	path = bold
 	url = https://github.com/ropensci/bold
 	registered = false
-[submodule "dubicube"]
-	path = dubicube
-	url = https://github.com/b-cubed-eu/dubicube
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
