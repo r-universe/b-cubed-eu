@@ -1,10 +1,9 @@
 {
   "id": 60945181,
   "created_at": "2025-02-12T13:40:58.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["gcube", "b-cubed-workshops", "comp-unstructured-data", "indicator-uncertainty", "integrate-indicator-software", "dubicube", "b-cubed-eu.r-universe.dev"]
+  }
 }
