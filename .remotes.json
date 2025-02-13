@@ -1,0 +1,20 @@
+[
+  {
+    "package": "bold",
+    "url": "https://github.com/ropensci/bold",
+    "via": ["b3gbi"],
+    "from": "b3gbi"
+  },
+  {
+    "package": "mgrs",
+    "url": "https://github.com/hrbrmstr/mgrs",
+    "via": ["b3gbi"],
+    "from": "b3gbi"
+  },
+  {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["b3gbi"],
+    "from": "b3gbi"
+  }
+]
