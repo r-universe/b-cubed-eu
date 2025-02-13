@@ -18,6 +18,12 @@
     "from": "dubicube"
   },
   {
+    "package": "effectclass",
+    "url": "https://github.com/inbo/effectclass",
+    "via": ["dubicube"],
+    "from": "dubicube"
+  },
+  {
     "package": "mgrs",
     "url": "https://github.com/hrbrmstr/mgrs",
     "via": ["b3gbi"],

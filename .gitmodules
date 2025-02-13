@@ -12,6 +12,10 @@
 [submodule "dubicube"]
 	path = dubicube
 	url = https://github.com/b-cubed-eu/dubicube
+[submodule "effectclass"]
+	path = effectclass
+	url = https://github.com/inbo/effectclass
+	registered = false
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
