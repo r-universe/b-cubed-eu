@@ -6,6 +6,12 @@
     "from": "dubicube"
   },
   {
+    "package": "b3gbi",
+    "url": "https://github.com/b-cubed-eu/b3gbi",
+    "via": ["impIndicator"],
+    "from": "impIndicator"
+  },
+  {
     "package": "bold",
     "url": "https://github.com/ropensci/bold",
     "via": ["b3gbi"],
@@ -16,6 +22,12 @@
     "url": "https://github.com/ropensci/bold",
     "via": ["dubicube", "b3gbi"],
     "from": "dubicube"
+  },
+  {
+    "package": "bold",
+    "url": "https://github.com/ropensci/bold",
+    "via": ["impIndicator", "b3gbi"],
+    "from": "impIndicator"
   },
   {
     "package": "effectclass",
@@ -36,6 +48,12 @@
     "from": "dubicube"
   },
   {
+    "package": "mgrs",
+    "url": "https://github.com/hrbrmstr/mgrs",
+    "via": ["impIndicator", "b3gbi"],
+    "from": "impIndicator"
+  },
+  {
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
     "via": ["b3gbi"],
@@ -46,5 +64,11 @@
     "url": "https://github.com/ropensci/taxize",
     "via": ["dubicube", "b3gbi"],
     "from": "dubicube"
+  },
+  {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["impIndicator", "b3gbi"],
+    "from": "impIndicator"
   }
 ]
