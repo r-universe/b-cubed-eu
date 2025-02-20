@@ -19,6 +19,9 @@
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
+[submodule "impIndicator"]
+	path = impIndicator
+	url = https://github.com/b-cubed-eu/impIndicator
 [submodule "mgrs"]
 	path = mgrs
 	url = https://github.com/hrbrmstr/mgrs
