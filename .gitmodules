@@ -28,6 +28,10 @@
 [submodule "pdindicatoR"]
 	path = pdindicatoR
 	url = https://github.com/b-cubed-eu/pdindicatoR
+[submodule "rgbif"]
+	path = rgbif
+	url = https://github.com/ropensci/rgbif
+	branch = master
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize
