@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/b-cubed-eu/b-cubed-eu.r-universe.dev
 	branch = HEAD
+[submodule "b3doc"]
+	path = b3doc
+	url = https://github.com/b-cubed-eu/b3doc
 [submodule "b3gbi"]
 	path = b3gbi
 	url = https://github.com/b-cubed-eu/b3gbi
@@ -12,6 +15,9 @@
 [submodule "dubicube"]
 	path = dubicube
 	url = https://github.com/b-cubed-eu/dubicube
+[submodule "ebvcube"]
+	path = ebvcube
+	url = https://github.com/EBVcube/ebvcube
 [submodule "effectclass"]
 	path = effectclass
 	url = https://github.com/inbo/effectclass
@@ -36,3 +42,6 @@
 	path = taxize
 	url = https://github.com/ropensci/taxize
 	registered = false
+[submodule "trias"]
+	path = trias
+	url = https://github.com/trias-project/trias
