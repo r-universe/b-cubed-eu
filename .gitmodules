@@ -12,6 +12,9 @@
 	path = bold
 	url = https://github.com/ropensci/bold
 	registered = false
+[submodule "dissmapr"]
+	path = dissmapr
+	url = https://github.com/b-cubed-eu/dissmapr
 [submodule "dubicube"]
 	path = dubicube
 	url = https://github.com/b-cubed-eu/dubicube
@@ -28,6 +31,9 @@
 [submodule "impIndicator"]
 	path = impIndicator
 	url = https://github.com/b-cubed-eu/impIndicator
+[submodule "invasimapr"]
+	path = invasimapr
+	url = https://github.com/b-cubed-eu/invasimapr
 [submodule "mgrs"]
 	path = mgrs
 	url = https://github.com/hrbrmstr/mgrs
