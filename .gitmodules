@@ -44,6 +44,10 @@
 	path = rgbif
 	url = https://github.com/ropensci/rgbif
 	branch = master
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize

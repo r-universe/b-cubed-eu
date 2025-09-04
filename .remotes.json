@@ -54,6 +54,12 @@
     "from": "impIndicator"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["b3gbi"],
+    "from": "b3gbi"
+  },
+  {
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
     "via": ["b3gbi"],
