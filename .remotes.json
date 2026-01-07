@@ -62,6 +62,12 @@
   {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["dubicube", "b3gbi"],
+    "from": "dubicube"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
     "via": ["impIndicator", "b3gbi"],
     "from": "impIndicator"
   },
