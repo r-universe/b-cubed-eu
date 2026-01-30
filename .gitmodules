@@ -8,10 +8,6 @@
 [submodule "b3gbi"]
 	path = b3gbi
 	url = https://github.com/b-cubed-eu/b3gbi
-[submodule "bold"]
-	path = bold
-	url = https://github.com/ropensci/bold
-	registered = false
 [submodule "dissmapr"]
 	path = dissmapr
 	url = https://github.com/b-cubed-eu/dissmapr
@@ -21,10 +17,6 @@
 [submodule "ebvcube"]
 	path = ebvcube
 	url = https://github.com/EBVcube/ebvcube
-[submodule "effectclass"]
-	path = effectclass
-	url = https://github.com/inbo/effectclass
-	registered = false
 [submodule "gcube"]
 	path = gcube
 	url = https://github.com/b-cubed-eu/gcube
@@ -44,14 +36,6 @@
 	path = rgbif
 	url = https://github.com/ropensci/rgbif
 	branch = master
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
-[submodule "taxize"]
-	path = taxize
-	url = https://github.com/ropensci/taxize
-	registered = false
 [submodule "trias"]
 	path = trias
 	url = https://github.com/trias-project/trias
